@@ -1,2 +1,4 @@
 # pytorch_deeplearning
-Repository for Pytorch Learning.
+
+Repository for Pytorch Deep Learning Course.
+
